@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4mubarak&label=Profile%20views&color=0e75b6&style=flat" alt="4mubarak" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@mr_mubar" target="blank"><img src="https://img.shields.io/twitter/follow/@abdullahi_mubar?logo=twitter&style=for-the-badge" alt="@abdullahi_mubar" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@mr_mubar" target="blank"><img src="https://img.shields.io/twitter/follow/@mr_mubar?logo=twitter&style=for-the-badge" alt="@abdullahi_mubar" /></a> </p>
 
 - 🌱 I’m currently learning **Cybersecurity Professional Certificate, Google Data Analytics, UI UX Design, IT Support Specialist & ALX-SE**
 
